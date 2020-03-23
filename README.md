@@ -1,6 +1,6 @@
-Full-stack login app
+# savage-fullstack-express
 
-![21 Savage](public/21savage.jpg)
+![21 Savage](public/thumbnail.png)
 
 ## Installation
 
@@ -10,4 +10,4 @@ Full-stack login app
 ## Usage
 
 1. run `npm run savage`
-2. Navigate to `localhost:3000`
+2. Navigate to `localhost:8080`
